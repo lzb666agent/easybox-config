@@ -1,0 +1,117 @@
+{
+ "sites": [
+  {
+   "key": "cms1",
+   "name": "量子资源",
+   "type": 0,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms2",
+   "name": "非凡资源",
+   "type": 0,
+   "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms3",
+   "name": "索尼资源",
+   "type": 0,
+   "api": "https://suoniapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms4",
+   "name": "虎牙资源",
+   "type": 0,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms5",
+   "name": "极速资源",
+   "type": 0,
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms6",
+   "name": "无尽资源",
+   "type": 0,
+   "api": "https://api.wujinapi.me/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms7",
+   "name": "暴风资源",
+   "type": 0,
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms8",
+   "name": "360资源",
+   "type": 0,
+   "api": "https://360zy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms9",
+   "name": "光速资源",
+   "type": 0,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms10",
+   "name": "魔都资源",
+   "type": 0,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ],
+ "lives": [
+  {
+   "name": "我的直播",
+   "type": 0,
+   "url": "https://gcore.jsdelivr.net/gh/lzb666agent/easybox-config@main/live.m3u",
+   "ua": "okhttp/3.15.3",
+   "epg": "https://epg.51zmt.top:8000/e.xml"
+  }
+ ],
+ "parses": [],
+ "flags": [
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "letv",
+  "sohu",
+  "tudou",
+  "pptv",
+  "mgtv",
+  "wasu",
+  "bilibili"
+ ]
+}
